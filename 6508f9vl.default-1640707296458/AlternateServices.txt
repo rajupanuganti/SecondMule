@@ -1,0 +1,3 @@
+https:www.google-analytics.com:443:.:^partitionKey=%28https%2Cmozilla.org%29:3	0	19123	https:www.google-analytics.com:443:www.google-analytics.com:443::n:1654855332:h3:y:1652263325:n:^partitionKey=%28https%2Cmozilla.org%29:|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19123	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1654855329:h3:y:1652263325:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:www.googletagmanager.com:443:.:^partitionKey=%28https%2Cmozilla.org%29:3	0	19123	https:www.googletagmanager.com:443:www.googletagmanager.com:443::n:1654855330:h3:y:1652263325:n:^partitionKey=%28https%2Cmozilla.org%29:|n:y:
